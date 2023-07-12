@@ -1,26 +1,29 @@
 차량응용 SW
 
  - 해외지도 데이터 변환기 개발
-   [필수역량]
-     C/C++ 기반 프로그래밍 역량  
-     Gis 툴 / Gis 프로그래밍, DBMS/SQL 사용 경험
-     공간 데이터 관련 이해 및 분석 경험 
-  [우대사항]
-    Gis 또는 내비게이션 데이터 관련 개발 경험
-    공간 데이터, 통계 및 데이터 마이닝 이행
-    영어 커뮤니케이션 역량
-    컴퓨터/지리정보 관련 전공
-
-  [기술스택]
-    언어 : C/C++, SQL(MYSQL, SQLite)
-    OS : Windows
-    DB : MS-SQL, SQLite
-    Tool : Visual Studio, GisTool(ArcGis, QGis 등)
-    기타 : BitBucket, MCOLS, Confluence
+    -> C++(Visual studio),GIS 툴, DMBS/ SQL(MSSQL, SQLite) 경험
+    -> 공간 데이터 이해 및 분석 경험
+	ㄴ GIs, 내비게이션 데이터 개발 경험
+	ㄴ 공간 데이터, 통계 및 데이터 마이닝 경험
+    -> 영어 및 컴퓨터/지리정보 관련 전공
 
  - 해외지도 데이터 변환 운영
+    -> GIS 툴, DMBS/ SQL(MSSQL, SQLite) 경험
+    -> 공간 데이터 이해 및 분석 경험
+	ㄴ 자동화 업무 및 데이터 분석 도구 운영경험
+		ㄴ Python, batch script 및 RPA
+	ㄴ 공간 데이터, 통계 및 데이터 마이닝 경험
+    -> 영어 및 컴퓨터/지리정보 관련 전공
+    -> SQL(SP: Strored Procedure)
 
  - 내비게이션 Engine 개발
+   -> 측위 관련 교육 이수 또는 지식 보유
+   -> SW 개발 프로세스 및 프로젝트 관리에 대한 이해
+   -> SW 개발 관련 교육 이수 또는 지식 보유
+   -> 내비게이션 또는 GIS 관련 개발 경험
+   -> Jira 기반 이슈 관리 및 개발 수행 경험
+   -> C++ 객체지향 언어 개발 가능
+   -> Linux OS 경험
 
  - 내비게이션 SW 개발
 
